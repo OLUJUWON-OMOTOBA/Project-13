@@ -32,6 +32,9 @@ The "[World Bank Loan](https://github.com/OLUJUWON-OMOTOBA/Project-13/blob/main/
 
 9. **Alerts and Notifications:**
    - Configurable alerts for critical metrics, notifying stakeholders of significant changes in loan status or potential risks.
+  
+   - ![image](https://github.com/OLUJUWON-OMOTOBA/Project-13/assets/134015058/1306c4af-0967-4e15-9130-344669a3b190)
+
 
 10. **Data Security:**
     - Implementation of role-based access controls to ensure that sensitive loan information was only accessible to authorized personnel.
